@@ -1,0 +1,43 @@
+You have 24 points to spend.  
+These points include use of your basic weapon and basic armor.
+1 point buys you 5 HP
+1 point will buy you 1 damage on all your moves
+
+You Get Passie for Value of +2 stats.
+
+You Must be Human and born on this world.
+
+You get one encounter power and one daily and as many at-wills as you want
+Encounter powers deal +6 damage
+Daily Powers deal +12 damage
+You have 6 movement speed
+2 points to gain +1
+
+Your minimum health is 10
+
+You are not allowed to effect opposing rolls.
+
+The roll chart for your convenience
+1: Fumble (< 0%)
+2-5: Miss (0%)
+6-9: Graze (50%)
+10-15: Hit (100%)
+16-19: Brutal (150%)
+20: Critical (200%)
+
+If your move is not straight damage it is recommended you customize the graze, brutal, and crit effects to better reflect the percent power they should deal
+You lose 1 point if you have both melee and ranged at-wills
+
+CC:
+3 damage = 1 cc Counter
+it take 4 cc Counters to stun player level unit.
+it take 2 cc Counters to Daze player level unit.
+After 2 stuns or 4 daze on the same units it take +1 cc for daze, stun. Stun(0/0/+1/+2/+3/+4) Daze (0/0/+1/+1/+2/+3)
+
+Standard Multipliers
+If your move has a 3 turn duration it can be 30% more effective
+If your move is an AoE that is expected to hit 2 targets it should be 65% effective to each target
+If your move is an AoE that is expected to hit 3 targets it should be 50% effective to each target
+If your move is an AoE that is expected to hit 4 targets it should be 45% effective to each target
+If your move is an AoE that is expected to hit 5 targets it should be 40% effective to each target
++1 to roll (can’t effect fumbles) = 10% of the rest of the moves power
