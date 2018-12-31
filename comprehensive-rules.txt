@@ -1,11 +1,7 @@
-You have 24 points to spend.  
+You have 20 points to spend.  
 These points include use of your basic weapon and basic armor.
 1 point buys you 5 HP
 1 point will buy you 1 damage on all your moves
-
-You Get Passie for Value of +2 stats.
-
-You Must be Human and born on this world.
 
 Armor: Costs 4 points if you are capable of using it at all.
 Light Armor: +1 movement speed +10 HP
@@ -15,8 +11,8 @@ Heavy Armor: (Requires 30 Base HP) +30 HP -1 Movement Speed
 Weapon: Costs 5 point and is expected to do 5 damage.
 
 You get one encounter power and one daily and as many at-wills as you want
-Encounter powers deal +6 damage
-Daily Powers deal +12 damage
+Encounter powers deal +5 damage
+Daily Powers deal +10 damage
 You have 6 movement speed
 2 points to gain +1
 
@@ -39,8 +35,8 @@ Standard Multipliers
 If your move has a 3 turn duration it can be 30% more effective
 If your move is an AoE that is expected to hit 2 targets it should be 65% effective to each target
 If your move is an AoE that is expected to hit 3 targets it should be 50% effective to each target
-If your move is an AoE that is expected to hit 4 targets it should be 45% effective to each target
-If your move is an AoE that is expected to hit 5 targets it should be 40% effective to each target
+If your move is an AoE that is expected to hit 4 targets it should be 40% effective to each target
+If your move is an AoE that is expected to hit 5 targets it should be 35% effective to each target
 Stun = 10 damage
 Daze = 5 damage
 +1 to roll (can’t effect fumbles) = 10% of the rest of the moves power
